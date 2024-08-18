@@ -9,14 +9,7 @@
             "program": "${workspaceFolder}/src/UFiber.Configurator/bin/Debug/net8.0/UFiber.Configurator.dll",
             "args": [
                 "--host",
-                "192.168.200.2",
-                "--dry-run",
-                "--vendor",
-                "HWTC",
-                "--serial",
-                "41-4C-43-4C-90-12-34-5a",
-                "--slid",
-                "12345"
+                "192.168.200.2"
             ],
             "cwd": "${workspaceFolder}/src/UFiber.Configurator",
             "console": "internalConsole",
